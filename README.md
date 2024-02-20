@@ -1,4 +1,6 @@
-- Calculating energy via numerical integration
-- Plotting different wave forms, impulse responses and filters
-- Step responses
-- Plotting periodic functions
+# DFT, FFT, Noise and waveform visualization
+
+### Simulating sinusoid signal over time to see various cycles. Use Nyquist rate
+### Using Discrete and Fast Fourier transform (DFF & FFT)
+### FFT of a complex sinusoid
+### Effect of ADC quantization
