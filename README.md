@@ -1,0 +1,4 @@
+- Calculating energy via numerical integration
+- Plotting different wave forms, impulse responses and filters
+- Step responses
+- Plotting periodic functions
